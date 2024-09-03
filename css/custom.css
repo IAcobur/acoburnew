@@ -1,0 +1,51 @@
+/* .container {
+    display: flex;
+    width: 100%;
+    padding: 0;
+  } */
+/*   
+  .nav-tabs .nav-link {
+    transition: background-color 0.2s, color 0.2s;
+  }
+  
+  .nav-tabs .nav-link.active {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .nav-tabs .nav-link:not(.active) {
+    background-color: #f8f9fa;
+    color: #000;
+  }
+  
+  .nav-tabs .nav-link:hover {
+    background-color: #e9ecef;
+  } */
+
+
+  body {
+    margin: 0;
+    font-family: 'Poppins Regular';
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  }
+
+  #mc_embed_signup_scroll2 .form-control-lg {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+  }
+
+  #mc_embed_signup_scroll2 .input-group-append .btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
